@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// Function called missmess
+// Function named missmess
 void missmess(string w)
 {
     if (w.front() == 'm' && w.back() == 's')
